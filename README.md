@@ -1,2 +1,2 @@
-# Crud-Desafio-Pitang
-Repositório criado para versionamento do desafio Sefaz Pitang.
+#Desafio-Sefaz-Pitang
+Repositório do desafio técnico da Pitang!
